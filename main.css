@@ -4,7 +4,9 @@ body{
     margin-top: 200px;
 }
 #div{
+    display: none;
     color: whitesmoke;
+    font-family: 'Playfair Display', serif;
 }
 .image{
     width: 500px;
@@ -13,7 +15,6 @@ body{
     box-shadow: 10px 10px 10px red;
 }
 #btn{
-    display: none;
     font-size: 48px;
     padding: 200px;
     border-radius: 10%;
