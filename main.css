@@ -1,7 +1,7 @@
 body{
     background-color: black;
     text-align: center;
-    margin-top: 200px;
+    margin-top: 250px;
 }
 #div{
     display: none;
@@ -16,7 +16,7 @@ body{
 }
 #btn{
     font-size: 48px;
-    padding: 200px;
+    padding: 150px;
     border-radius: 10%;
     background-color: orange;
     border: 5px solid black;
